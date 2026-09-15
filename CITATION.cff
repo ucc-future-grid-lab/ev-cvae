@@ -1,0 +1,7 @@
+@InProceedings{Maye2025,
+  author    = {Kelly, Graeme and Palacios-Garcia, Emilio J. and Hayes, Barry P.},
+  booktitle = {2026 {{IEEE PES Innovative Smart Grid Technologies Europe}} ({{ISGT EUROPE}})},
+  date      = {2026-10},
+  title     = {{Synthetic Electric Vehicle Charging Session Generation Using a Conditional Variational Autoencoder}},
+  pages     = {1--5},
+}
