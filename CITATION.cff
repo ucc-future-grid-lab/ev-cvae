@@ -1,14 +1,24 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
+license: "MIT"
+type: software
+title: Synthetic EV Charging Session Generation Using a Conditional Variational Autoencoder
 authors:
 - family-names: Kelly
   given-names: Graeme
+  affiliation: University College Cork
 - family-names: Palacios-Garcia
   given-names: Emilio J.
+  affiliation: University College Cork
   orcid: https://orcid.org/0000-0003-2703-6532
 - family-names: Hayes
   given-names: Barry P.
+  affiliation: University College Cork
   orcid: https://orcid.org/0000-0001-5171-9056
-title: Synthetic EV Charging Session Generation Using a Conditional Variational Autoencoder
 version: v2026.09.15
 date-released: 2026-09-15
+keywords:
+- electric vehicle charging
+- synthetic data
+- generative models
+- conditional variational autoencoder

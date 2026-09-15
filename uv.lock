@@ -398,6 +398,7 @@ dependencies = [
     { name = "scikit-learn" },
     { name = "scipy" },
     { name = "torch" },
+    { name = "tornado" },
 ]
 
 [package.dev-dependencies]
@@ -425,6 +426,7 @@ requires-dist = [
     { name = "scikit-learn", specifier = ">=1.8.0,<2.0.0" },
     { name = "scipy", specifier = ">=1.17.1,<2.0.0" },
     { name = "torch", specifier = ">=2.14.0" },
+    { name = "tornado", specifier = "<6.5.9" },
 ]
 
 [package.metadata.requires-dev]
