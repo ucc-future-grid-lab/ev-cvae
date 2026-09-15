@@ -1,7 +1,14 @@
-@InProceedings{Maye2025,
-  author    = {Kelly, Graeme and Palacios-Garcia, Emilio J. and Hayes, Barry P.},
-  booktitle = {2026 {{IEEE PES Innovative Smart Grid Technologies Europe}} ({{ISGT EUROPE}})},
-  date      = {2026-10},
-  title     = {{Synthetic Electric Vehicle Charging Session Generation Using a Conditional Variational Autoencoder}},
-  pages     = {1--5},
-}
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Kelly
+  given-names: Graeme
+- family-names: Palacios-Garcia
+  given-names: Emilio J.
+  orcid: https://orcid.org/0000-0003-2703-6532
+- family-names: Hayes
+  given-names: Barry P.
+  orcid: https://orcid.org/0000-0001-5171-9056
+title: Synthetic EV Charging Session Generation Using a Conditional Variational Autoencoder
+version: v2026.09.15
+date-released: 2026-09-15
